@@ -1,6 +1,4 @@
-Here is the content formatted as plain text:
 
-```
 # Joining Tables
 
 ## Aliases
@@ -73,6 +71,3 @@ SELECT FullName, Location FROM CurrentClients
 UNION
 SELECT FullName, Location FROM LegacyClients;
 ```
-```
-
-You can copy and paste this plain text version into your editor of choice!
